@@ -53,4 +53,7 @@ return {
       require('onedark').load()
     end,
   },
+  {
+    'm-demare/hlargs.nvim',
+  },
 }
